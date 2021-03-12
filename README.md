@@ -1,4 +1,9 @@
 # UNSWPlanner
 
-to start the app use:
-npm run start
+SENG2021 SUBMISSION REPO
+team: FishandChips
+members: Ahmet
+         Daniel
+         Humza
+         Jacky
+         Martin
