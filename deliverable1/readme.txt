@@ -1,0 +1,1 @@
+The High Fidality model is created on axure, and the overall interactions of it is screenshotted and placed into our report, however if you want to interract with our High fidality model, you can install axure and there will be a step by step preview of the model.
