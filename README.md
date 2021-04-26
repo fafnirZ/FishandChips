@@ -9,3 +9,5 @@ SENG2021 SUBMISSION REPO
 | z5309373 | Humza Saeed   |
 | z5257079 | Jacky Xie     |
 | z5208859 | Martin Le     |
+
+click [here](https://github.com/fafnirZ/UNSWCoursePlanner) for source code repo
